@@ -1,5 +1,5 @@
 ---
-title: How to Mount NFS share on Debian 
+title: Mount NFS share on Debian 
 date: 2022-06-01
 categories: [share NFS Networking] 
 tags: [nfs,server,debian]            # TAG names should always be be lowercase and seperated by a commma
@@ -7,7 +7,7 @@ tags: [nfs,server,debian]            # TAG names should always be be lowercase a
 
 This page has been originally created by "Karim Buzdar" found on "Linuxhint-How to Mount NFS share on Debian 10(https://linuxhint.com/mount_nfs_share_debian)". I want to thank him for the contribution.
 
-# How to Mount NFS share on Debian
+# Mount NFS share on Debian
 
 The network file system NFS is an efficient way of sharing files and directories to other machines in a network. It is based on client-server architecture, where the server directory is mounted onto client systems. NFS allows clients to access shared directories as if they are a part of their own system, and remains a popular way of sharing files among Linux systems.
 
